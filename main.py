@@ -1,5 +1,4 @@
 import requests
-import json
 
 endpoint = "https://tiktok.com/@{username}?is_copy_url=1&is_from_webapp=v1"
 
